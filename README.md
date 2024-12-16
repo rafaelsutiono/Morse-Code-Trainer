@@ -10,3 +10,4 @@ Read the full documentation:
 ## Circuit Diagram
 <div align="center"><img src="morsediagram.PNG" alt="Circuit Diagram" width="400"/></div>
 <br/>
+Note: The actual LCD used is an ST7920 128x64 LCD. Circuit makers do not support this type of LCD for making circuit diagrams, so I have used an I2C 16x2 LCD as a placeholder.
