@@ -3,7 +3,7 @@
 
 <div align="center">  
 Read the full documentation:
-(COMING ON 17 DECEMBER 2024)
+(WILL UPLOAD ON 17 DECEMBER 2024)
 </div>
 <br/>
 
