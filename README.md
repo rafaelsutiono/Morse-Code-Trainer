@@ -4,13 +4,14 @@
 <div align="center">
 
 ![Static Badge](https://img.shields.io/badge/Report-Read-blue?logo=readthedocs&logoColor=blue&link=Arduino_morse_code_report.pdf)
+![Static Badge](https://img.shields.io/badge/Demo-Watch-red?link=morsedemo.mp4)
 </div>
 <br/>
 
 ## Circuit Diagram
 <div align="center"><img src="morsediagram.PNG" alt="Circuit Diagram" width="400"/></div>
 <br/>
-Note: The actual LCD used is an ST7920 128x64 LCD. Circuit makers do not support this type of LCD for making circuit diagrams, so I have used an I2C 16x2 LCD as a placeholder.
+Note: The actual LCD used is an ST7920 128x64 LCD. Circuit makers do not support this type of LCD for making circuit diagrams, so we have used an I2C 16x2 LCD as a placeholder.
 <br/>
 
 ## Final Product
