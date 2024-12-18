@@ -11,3 +11,7 @@ Read the full documentation:
 <div align="center"><img src="morsediagram.PNG" alt="Circuit Diagram" width="400"/></div>
 <br/>
 Note: The actual LCD used is an ST7920 128x64 LCD. Circuit makers do not support this type of LCD for making circuit diagrams, so I have used an I2C 16x2 LCD as a placeholder.
+<br/>
+
+## Final Product
+<div align="center"><img src="morse.jpg" alt="Final Product" width="400"/></div>
