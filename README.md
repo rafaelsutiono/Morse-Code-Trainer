@@ -3,7 +3,7 @@
 
 <div align="center">  
 Read the full documentation:
-![Static Badge](https://img.shields.io/badge/Report-Read-blue?logo=readthedocs&logoColor=blue&link=Arduino_morse_code_report.pdf)
+  <div>![Static Badge](https://img.shields.io/badge/Report-Read-blue?logo=readthedocs&logoColor=blue&link=Arduino_morse_code_report.pdf)</div>
 </div>
 <br/>
 
