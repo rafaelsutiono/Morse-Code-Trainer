@@ -3,8 +3,8 @@
 
 <div align="center">
 
-![Static Badge](https://img.shields.io/badge/Report-Read-blue?logo=readthedocs&logoColor=blue&link=Arduino_morse_code_report.pdf)
-![Static Badge](https://img.shields.io/badge/Demo-Watch-red?link=morsedemo.mp4)
+![Static Badge](https://img.shields.io/badge/Report-Read-blue?logo=readthedocs&logoColor=blue&link=https://github.com/rafaelsutiono/Morse-Code-Trainer/blob/main/Arduino_morse_code_report.pdf)
+![Static Badge](https://img.shields.io/badge/Demo-Watch-red?link=https://github.com/rafaelsutiono/Morse-Code-Trainer/blob/main/morsedemo.mp4)
 </div>
 <br/>
 
