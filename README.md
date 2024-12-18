@@ -3,7 +3,7 @@
 
 <div align="center">  
 Read the full documentation:
-(WILL UPLOAD ON 17 DECEMBER 2024)
+[![demo](https://img.shields.io/badge/Report-Read-blue?logo=readthedocs&logoColor=blue)](Arduino_morse_code_trainer.pdf)
 </div>
 <br/>
 
